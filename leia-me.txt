@@ -1,6 +1,6 @@
 Como usuário administrador é utilizado o email:
 admin@hotmail.com
-senha: 123456
+senha: dot7x398q
 
 Para criar esse usuário, é necessário dar o comando
 php artisan db:seed
