@@ -1,4 +1,4 @@
-Como usuário é utilizado o email:
+Como usuário administrador é utilizado o email:
 admin@hotmail.com
 senha: 123456
 
